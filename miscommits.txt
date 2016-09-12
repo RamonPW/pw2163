@@ -1,0 +1,11 @@
+commit ae8593940913bfa0e5dc106b3a51644d2d740ff4
+Author: RamonPW <r_fut@hotmail.com>
+Date:   Fri Sep 2 11:42:10 2016 -0600
+
+    Cambio de mi readme.txt
+
+commit 925e3da26e77065b6f81c799fbab0feb306d6162
+Author: RamonPW <r_fut@hotmail.com>
+Date:   Fri Sep 2 11:24:40 2016 -0600
+
+    commit inicial
